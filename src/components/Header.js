@@ -1,7 +1,7 @@
 import React from "react";
 import SearchOutlined from "@material-ui/icons/SearchOutlined";
-import "./Header.css";
-import Logo from './robinhood.svg'
+import "../styles/Header.css";
+import Logo from '../images/robinhood.svg'
 
 function Header() {
   return (

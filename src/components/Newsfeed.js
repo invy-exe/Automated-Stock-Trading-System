@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import "./Newsfeed.css";
+import "../styles/Newsfeed.css";
 import Article from "./Article";
 import { Avatar } from "@material-ui/core";
 import MoreHorizIcon from "@material-ui/icons/MoreHoriz";

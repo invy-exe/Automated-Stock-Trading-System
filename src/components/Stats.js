@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import "./Stats.css";
+import "../styles/Stats.css";
 import MoreHorizIcon from "@material-ui/icons/MoreHoriz";
 import StatsRow from "./StatsRow";
 import { key } from "./api";
